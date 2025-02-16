@@ -1,0 +1,2 @@
+## Introducción a Arduino
+En este repositorio puedes encontrar programas sencillos creados para ejecutarse en Arduino. Para realizarlos he seguido la lista de [tutoriales de Arduino de Paul McWhorter](https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
