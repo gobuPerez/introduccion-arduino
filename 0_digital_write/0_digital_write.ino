@@ -1,4 +1,5 @@
 // Encendido de un LED con digitalWrite
+// La pata mas larga del LED se conecta al polo positivo y la mas corta a tierra (-)
 
 void setup() {
   pinMode(13, OUTPUT); // Se configura el pin 13 como pin de salida
